@@ -1,3 +1,3 @@
 # AREnvProbeAnchor
 
-Set the AREnvironmentProbeAnchor with the screen tap.
+Tap the screen to set AREnvironmentProbeAnchor in the space.
